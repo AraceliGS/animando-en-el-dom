@@ -7,13 +7,29 @@
 
 /* Estilos a la tabla*/
 
-.board {
+/*.board {
   border-spacing: 30px;
-}
+}*/
 /*Estilos a las celdas*/
 
-.board td {
+/*.board td {
   width: 100px;
   height: 100px;
   border: 1px solid #000;
+}*/
+
+div {
+  width: 100px;
+  height: 100px;
+  border: 1px solid #000;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.red {
+  background-color: red;
+}
+
+.white {
+  background-color: white;
 }
